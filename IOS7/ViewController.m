@@ -268,7 +268,7 @@
     AControllerViewController *controller = [[AControllerViewController alloc]init];
 //    self.navigationController.interactivePopGestureRecognizer.enabled = YES;
     [self.navigationController pushViewController:controller animated:YES];
-    ///我擦
+    ///我擦  
 }
 
 - (void)didReceiveMemoryWarning
